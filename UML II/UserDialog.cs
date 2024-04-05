@@ -13,7 +13,7 @@ namespace UML_II
         {
             _menuCatalog = menuCatalog;
         }
-
+        
         Pizza GetNewPizza()
         {
             Pizza pizzaItem = new Pizza();
