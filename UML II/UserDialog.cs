@@ -12,7 +12,7 @@ namespace UML_II
         public UserDialog(MenuCatalog menuCatalog)
         {
             _menuCatalog = menuCatalog;
-        } 
+        }
         
         Pizza GetNewPizza()
         {
