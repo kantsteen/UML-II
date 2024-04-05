@@ -9,7 +9,7 @@ namespace UML_II
     public class Store
     {
         MenuCatalog menuCatalog;
-
+        
         public Store()
         {
             menuCatalog = new MenuCatalog();
